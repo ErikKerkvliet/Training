@@ -1,0 +1,6 @@
+pyvenv.cfg
+bin/
+lib/
+*.pyc
+.idea/
+Data/
